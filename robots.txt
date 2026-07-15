@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krzysztofole.github.io/sitemap.xml
+
